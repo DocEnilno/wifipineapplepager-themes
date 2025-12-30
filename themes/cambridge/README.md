@@ -2,7 +2,7 @@
 
 A custom, retro-styled theme for the WiFi Pineapple Pager. This project combines a pixel-art "Jurassic Park" aesthetic with Unix UI elements to create a unique dashboard experience.
 
-![Dashboard Preview](Capture_01.png)
+![Dashboard Preview](screens/Capture_01.png)
 
 > **Note:** This theme is currently under active development. Assets and layouts are subject to change.
 
