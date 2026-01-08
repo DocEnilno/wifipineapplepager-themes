@@ -15,11 +15,11 @@
     "layers": [
       { "image_path": "assets/settings_bg.png", "x": 0, "y": 0 },
       { "image_path": "assets/divright.png", "x": 140, "y": 50 },
-      { "text": "Clock", "x": 10, "y": 50,  "text_color_palette": "gray" },
-      { "text": "GPS",       "x": 10, "y": 85,  "text_color_palette": "gray" },
-      { "text": "Updates",   "x": 10, "y": 120, "text_color_palette": "gray" },
-      { "text": "Help",      "x": 10, "y": 155, "text_color_palette": "yellow" },
-      { "text": "About",     "x": 10, "y": 190, "text_color_palette": "gray" }
+      { "text": "Clock", "x": 10, "y": 50,  "text_color_palette": "orange" },
+      { "text": "GPS",       "x": 10, "y": 85,  "text_color_palette": "orange" },
+      { "text": "Updates",   "x": 10, "y": 120, "text_color_palette": "orange" },
+      { "text": "Help",      "x": 10, "y": 155, "text_color_palette": "purple" },
+      { "text": "About",     "x": 10, "y": 190, "text_color_palette": "orange" }
     ]
   },
   "pages": [
@@ -32,11 +32,11 @@
           "y":50,
           "layers": [
             { "image_path": "assets/wizard.png" },
-            { "text": "Tutorial", "x": 40, "text_color_palette": "blue" }
+            { "text": "Tutorial", "x": 40, "text_color_palette": "orange" }
           ],
           "selected_layers": [
             { "image_path": "assets/wizard.png" },
-            { "text": "Tutorial", "x": 40, "text_color_palette": "yellow" }
+            { "text": "Tutorial", "x": 40, "text_color_palette": "purple" }
           ],
           "target": "tutorial"
         },
@@ -46,11 +46,11 @@
           "y":85,
           "layers": [
             { "image_path": "assets/info.png" },
-            { "text": "FCC ID: 2A52Y-MK1", "x": 40, "text_color_palette": "blue" }
+            { "text": "FCC ID: 2A52Y-MK1", "x": 40, "text_color_palette": "orange" }
           ],
           "selected_layers": [
             { "image_path": "assets/info.png" },
-            { "text": "FCC ID: 2A52Y-MK1", "x": 40, "text_color_palette": "yellow" }
+            { "text": "FCC ID: 2A52Y-MK1", "x": 40, "text_color_palette": "purple" }
           ],
           "target": "regulatory"
         },
@@ -60,11 +60,11 @@
           "y":120,
           "layers": [
             { "image_path": "assets/info.png" },
-            { "text": "License Agreement", "x": 40, "text_color_palette": "blue" }
+            { "text": "License Agreement", "x": 40, "text_color_palette": "orange" }
           ],
           "selected_layers": [
             { "image_path": "assets/info.png" },
-            { "text": "License Agreement", "x": 40, "text_color_palette": "yellow" }
+            { "text": "License Agreement", "x": 40, "text_color_palette": "purple" }
           ],
           "target": "license_dialog"
         },
@@ -74,11 +74,11 @@
           "y":155,
           "layers": [
             { "image_path": "assets/info.png" },
-            { "text": "Open Source Licenses", "x": 40, "text_color_palette": "blue" }
+            { "text": "Open Source Licenses", "x": 40, "text_color_palette": "orange" }
           ],
           "selected_layers": [
             { "image_path": "assets/info.png" },
-            { "text": "Open Source Licenses", "x": 40, "text_color_palette": "yellow" }
+            { "text": "Open Source Licenses", "x": 40, "text_color_palette": "purple" }
           ],
           "target": "os_licenses"
         },
@@ -88,11 +88,11 @@
           "y":190,
           "layers": [
             { "image_path": "assets/info.png" },
-            { "text": "Help", "x": 40, "text_color_palette": "blue" }
+            { "text": "Help", "x": 40, "text_color_palette": "orange" }
           ],
           "selected_layers": [
             { "image_path": "assets/info.png" },
-            { "text": "Help", "x": 40, "text_color_palette": "yellow" }
+            { "text": "Help", "x": 40, "text_color_palette": "purple" }
           ],
           "target": "help_dialog"
         }

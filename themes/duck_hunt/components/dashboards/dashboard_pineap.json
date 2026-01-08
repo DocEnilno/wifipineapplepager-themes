@@ -29,7 +29,7 @@
             { "image_path": "assets/down.png", "x": 124, "y": 200, "recolor_palette": "orange"}
           ],
           "selected_layers": [
-            { "text": "PineAP", "x": 10, "y": 50, "text_color_palette": "orange" },
+            { "text": "PineAP", "x": 10, "y": 50, "text_color_palette": "purple" },
 
             { "x": 170, "y": 50,  "variable_name": "$_PINEAP_IMPERSONATE_NETWORKS",       "use_template": "disabled_toggle" },
             { "x": 210, "y": 50,  "text_color_palette": "orange", "text": "Mimic Open Networks" },
@@ -65,10 +65,10 @@
             { "x": 170, "y": 85,  "variable_name": "$_OPEN_AP_HIDDEN",           "use_template": "disabled_toggle" },
             { "x": 210, "y": 85,  "text_color_palette": "orange",           "text": "Hidden" },
 
-            { "x": 170, "y": 120, "image_path": "assets/disabled_keyboard.png"  },
+            { "x": 170, "y": 120, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 120, "text_color_palette": "orange",           "text": "Network Name" },
 
-            { "x": 170, "y": 155, "image_path": "assets/disabled_keyboard.png"  },
+            { "x": 170, "y": 155, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 155, "text_color_palette": "orange",           "text": "BSSID Override" }
           ],
           "x": 0,
@@ -108,10 +108,10 @@
             { "x": 170, "y": 50, "image_path": "assets/menu_disabled.png"  },
             { "x": 210, "y": 50, "text_color_palette": "orange",           "text": "SSID Pool" },
 
-            { "x": 170, "y": 85, "image_path": "assets/disabled_keyboard.png"  },
+            { "x": 170, "y": 85, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 85, "text_color_palette": "orange",           "text": "Add Network" },
 
-            { "x": 170, "y": 120, "image_path": "assets/disabled_warning.png"  },
+            { "x": 170, "y": 120, "image_path": "assets/disabled_warning.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 120, "text_color_palette": "orange",           "text": "Clear Networks" }
           ],
           "x": 0,
@@ -136,13 +136,13 @@
               ]
             }  },
 
-            { "x": 170, "y": 85, "image_path": "assets/disabled_keyboard.png"  },
+            { "x": 170, "y": 85, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 85, "text_color_palette": "orange",           "text": "Allowed Client List" },
 
             { "x": 170, "y": 120, "image_path": "assets/menu_disabled.png"  },
             { "x": 210, "y": 120, "text_color_palette": "orange",           "text": "Denied Client List" },
 
-            { "x": 170, "y": 155, "image_path": "assets/disabled_keyboard.png"  },
+            { "x": 170, "y": 155, "image_path": "assets/disabled_keyboard.png", "recolor_palette": "orange"  },
             { "x": 210, "y": 155, "text_color_palette": "orange",           "text": "Add Allowed Client" },
 
             { "x": 170, "y": 190, "image_path": "assets/menu_disabled.png"  },
